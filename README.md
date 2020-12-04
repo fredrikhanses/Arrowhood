@@ -10,3 +10,30 @@ Arrowhood was developed in Unreal Engine 4 in four weeks as a part of a game pro
 Link to large maps: https://1drv.ms/u/s!Aucnx6vdZ_7OlAEMS54PFOu3UQBu?e=4hZ3xE
 
 Download game: https://fredrikhanses.itch.io/arrowhood
+
+Credits:
+
+Programming: 
+
+    Nicolas Moreno
+    Fredrik Hanses
+    Martin Carlsson
+    
+Design:
+
+    Alan Ismail
+    Jacopo Colangelo
+    Sebastian Routh
+    Johan Malmberg
+    
+3D:
+
+    Alexandra Alber
+    Anton Nordling
+    Sigge Sandström
+    
+2D:
+
+    Erika Henell
+    Lukas Frej
+    Bo Oldertz
