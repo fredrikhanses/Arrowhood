@@ -8,8 +8,8 @@ Climb, run, and jump quickly over the city's rooftops, and use the hookshot for 
 Arrowhood was developed in Unreal Engine 4 in four weeks as a part of a game project at Futuregames, a higher vocational education for game development, in Stockholm, Sweden.
 
 Link to large maps: https://1drv.ms/u/s!Aucnx6vdZ_7OlAEMS54PFOu3UQBu?e=4hZ3xE
-Put MainMenuMap in Content/MainMenu
-and the rest in Content/Levels
+
+Put MainMenuMap in Content/MainMenu and the rest in Content/Levels
 
 Download game: https://fredrikhanses.itch.io/arrowhood
 
